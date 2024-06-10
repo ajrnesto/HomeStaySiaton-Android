@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926599309505",
+    "project_id": "homestay-siaton",
+    "storage_bucket": "homestay-siaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926599309505:android:8119f7e2b9fc832da54c40",
+        "android_client_info": {
+          "package_name": "com.homestayhost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtjwq_Nk1VvPO0AYUTqUpk-GqXEaWZek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926599309505:android:07d351197b0bab4da54c40",
+        "android_client_info": {
+          "package_name": "com.homestaysiaton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+            "current_key": "AIzaSyAKtjwq_Nk1VvPO0AYUTqUpk-GqXEaWZek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
